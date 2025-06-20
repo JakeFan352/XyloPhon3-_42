@@ -1,0 +1,9 @@
+# 自定规则直连, classical, yaml
+
+# 完整域名匹配 DOMAIN
+# 域名后缀匹配 DOMAIN-SUFFIX
+# 域名关键字匹配 DOMAIN-KEYWORD
+# IP 地址范围匹配 IP-CIDR
+
+payload:
+  - DOMAIN,hkg.databasesets.com        #香港公司名單數據集
