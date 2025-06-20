@@ -1,0 +1,33 @@
+# 自定规则直连, classical, yaml
+
+# 完整域名匹配 DOMAIN
+# 域名后缀匹配 DOMAIN-SUFFIX
+# 域名关键字匹配 DOMAIN-KEYWORD
+# IP 地址范围匹配 IP-CIDR
+
+payload:
+  - DOMAIN,f.jnas.buzz        #JNAS外网穿透
+  - DOMAIN,erp.pa0086.com        #PA的ERP
+  - DOMAIN,afu321.com          #AFU321
+  - DOMAIN-SUFFIX,suclass.com        #八宝资源库
+  - DOMAIN,zhidayun.net              #智达云
+  - DOMAIN,youpin898.com                #悠悠有品
+  - DOMAIN,csqaq.com                #cs饰品分析
+  - DOMAIN,cs2ob.cn                #cs饰品分析
+  - DOMAIN,chat.deepseek.com            #DeepSeek
+  - DOMAIN,aiqicha.baidu.com                  #爱企查
+  - DOMAIN,dl.keke10.com            #可可影视
+
+  - DOMAIN-SUFFIX,oray.com        #向日葵
+  - DOMAIN-SUFFIX,orayimg.com        #向日葵
+  - DOMAIN-SUFFIX,weiyun001.com        #维运
+  - DOMAIN-SUFFIX,sofreight.com        #搜航
+  - DOMAIN-SUFFIX,cmdeye.com        #视频解析
+  - DOMAIN-SUFFIX,made-in-china.com        #MIC
+  - DOMAIN-SUFFIX,jianzhuxuezhang.com        #建筑学长
+  - DOMAIN-SUFFIX,youpin898.com                  #悠悠有品
+  - DOMAIN-SUFFIX,chinapp.com              #品牌网
+  - DOMAIN-SUFFIX,douyu.com              #斗鱼直播
+  - DOMAIN-SUFFIX,douyin.com            #抖音
+  - DOMAIN-SUFFIX,5eplay.com                #5E对战平台
+  - DOMAIN-SUFFIX,wmpvp.com                #5E对战平台
