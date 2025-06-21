@@ -1,0 +1,402 @@
+proxy-providers:
+  tannel:
+    type: http
+    url: "https://psub.xpsub.fun/sub?target=clash&url=c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwMSMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwMQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwMiMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwMg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwMyMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwMw0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwNCMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwNA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwNSMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwNQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwNiMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwNg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwNyMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwNw0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwOCMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwOA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAwOSMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAwOQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMTAxMCMlRjAlOUYlODclQUQlRjAlOUYlODclQjAlMjAlRTklQTYlOTklRTYlQjglQUYlMjAxMA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMjAwMSMlRjAlOUYlODclQjklRjAlOUYlODclQkMlMjAlRTUlOEYlQjAlRTYlQjklQkUlMjAwMQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMjAwMiMlRjAlOUYlODclQjklRjAlOUYlODclQkMlMjAlRTUlOEYlQjAlRTYlQjklQkUlMjAwMg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMjAwMyMlRjAlOUYlODclQjklRjAlOUYlODclQkMlMjAlRTUlOEYlQjAlRTYlQjklQkUlMjAwMw0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMjAwNCMlRjAlOUYlODclQjklRjAlOUYlODclQkMlMjAlRTUlOEYlQjAlRTYlQjklQkUlMjAwNA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMjAwNSMlRjAlOUYlODclQjklRjAlOUYlODclQkMlMjAlRTUlOEYlQjAlRTYlQjklQkUlMjAwNQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNDAwMSMlRjAlOUYlODclQUYlRjAlOUYlODclQjUlMjAlRTYlOTclQTUlRTYlOUMlQUMlMjAwMQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNDAwMiMlRjAlOUYlODclQUYlRjAlOUYlODclQjUlMjAlRTYlOTclQTUlRTYlOUMlQUMlMjAwMg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNDAwMyMlRjAlOUYlODclQUYlRjAlOUYlODclQjUlMjAlRTYlOTclQTUlRTYlOUMlQUMlMjAwMw0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNDAwNCMlRjAlOUYlODclQUYlRjAlOUYlODclQjUlMjAlRTYlOTclQTUlRTYlOUMlQUMlMjAwNA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNDAwNSMlRjAlOUYlODclQUYlRjAlOUYlODclQjUlMjAlRTYlOTclQTUlRTYlOUMlQUMlMjAwNQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNDAwNiMlRjAlOUYlODclQUYlRjAlOUYlODclQjUlMjAlRTYlOTclQTUlRTYlOUMlQUMlMjAwNg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMzAwMSMlRjAlOUYlODclQjglRjAlOUYlODclQUMlMjAlRTYlOTYlQjAlRTUlOEElQTAlRTUlOUQlQTElMjAwMQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMzAwMiMlRjAlOUYlODclQjglRjAlOUYlODclQUMlMjAlRTYlOTYlQjAlRTUlOEElQTAlRTUlOUQlQTElMjAwMg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMzAwMyMlRjAlOUYlODclQjglRjAlOUYlODclQUMlMjAlRTYlOTYlQjAlRTUlOEElQTAlRTUlOUQlQTElMjAwMw0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozMzAwNCMlRjAlOUYlODclQjglRjAlOUYlODclQUMlMjAlRTYlOTYlQjAlRTUlOEElQTAlRTUlOUQlQTElMjAwNA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNjAwMSMlRjAlOUYlODclQkElRjAlOUYlODclQjglMjAlRTclQkUlOEUlRTUlOUIlQkQlMjAwMQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNjAwMiMlRjAlOUYlODclQkElRjAlOUYlODclQjglMjAlRTclQkUlOEUlRTUlOUIlQkQlMjAwMg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNjAwMyMlRjAlOUYlODclQkElRjAlOUYlODclQjglMjAlRTclQkUlOEUlRTUlOUIlQkQlMjAwMw0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNjAwNCMlRjAlOUYlODclQkElRjAlOUYlODclQjglMjAlRTclQkUlOEUlRTUlOUIlQkQlMjAwNA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNjAwNSMlRjAlOUYlODclQkElRjAlOUYlODclQjglMjAlRTclQkUlOEUlRTUlOUIlQkQlMjAwNQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNjAwNiMlRjAlOUYlODclQkElRjAlOUYlODclQjglMjAlRTclQkUlOEUlRTUlOUIlQkQlMjAwNg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAxNCMlRjAlOUYlODclQTglRjAlOUYlODclQTYlMjAlRTUlOEElQTAlRTYlOEIlQkYlRTUlQTQlQTcNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzUwMDEjJUYwJTlGJTg3JUIwJUYwJTlGJTg3JUI3JTIwJUU5JTlGJUE5JUU1JTlCJUJEDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDI0IyVGMCU5RiU4NyVCQiVGMCU5RiU4NyVCMyUyMCVFOCVCNiU4QSVFNSU4RCU5Nw0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA3MSMlRjAlOUYlODclQjAlRjAlOUYlODclQUQlMjAlRTYlOUYlQUMlRTUlOUYlOTQlRTUlQUYlQTgNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMTgjJUYwJTlGJTg3JUIyJUYwJTlGJTg3JUJFJTIwJUU5JUE5JUFDJUU2JTlEJUE1JUU4JUE1JUJGJUU0JUJBJTlBDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDE2IyVGMCU5RiU4NyVCOSVGMCU5RiU4NyVBRCUyMCVFNiVCMyVCMCVFNSU5QiVCRA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAyMCMlRjAlOUYlODclQUUlRjAlOUYlODclQjMlMjAlRTUlOEQlQjAlRTUlQkElQTYNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNTUjJUYwJTlGJTg3JUIzJUYwJTlGJTg3JUI1JTIwJUU1JUIwJUJDJUU2JUIzJThBJUU1JUIwJTk0DQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDAxIyVGMCU5RiU4NyVCNSVGMCU5RiU4NyVBRCUyMCVFOCU4RiVCMiVFNSVCRSU4QiVFNSVBRSVCRQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAxOSMlRjAlOUYlODclQUUlRjAlOUYlODclQTklMjAlRTUlOEQlQjAlRTUlQkElQTYlRTUlQjAlQkMlRTglQTUlQkYlRTQlQkElOUENCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMDgjJUYwJTlGJTg3JUE2JUYwJTlGJTg3JUJBJTIwJUU2JUJFJUIzJUU1JUE0JUE3JUU1JTg4JUE5JUU0JUJBJTlBDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDI4IyVGMCU5RiU4NyVCMyVGMCU5RiU4NyVCRiUyMCVFNiU5NiVCMCVFOCVBNSVCRiVFNSU4NSVCMA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAwNCMlRjAlOUYlODclQTklRjAlOUYlODclQUElMjAlRTUlQkUlQjclRTUlOUIlQkQNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMjMjJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwJUU2JUIzJTk1JUU1JTlCJUJEDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDA3IyVGMCU5RiU4NyVBOCVGMCU5RiU4NyVBRCUyMCVFNyU5MSU5RSVFNSVBMyVBQg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAwNSMlRjAlOUYlODclQUMlRjAlOUYlODclQTclMjAlRTglOEIlQjElRTUlOUIlQkQNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMzIjJUYwJTlGJTg3JUFFJUYwJTlGJTg3JUFBJTIwJUU3JTg4JUIxJUU1JUIwJTk0JUU1JTg1JUIwDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDY0IyVGMCU5RiU4NyVBRSVGMCU5RiU4NyVCOCUyMCVFNSU4NiVCMCVFNSVCMiU5Qg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAxMCMlRjAlOUYlODclQjUlRjAlOUYlODclQjElMjAlRTYlQjMlQTIlRTUlODUlQjANCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMTIjJUYwJTlGJTg3JUFFJUYwJTlGJTg3JUI5JTIwJUU2JTg0JThGJUU1JUE0JUE3JUU1JTg4JUE5DQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDI2IyVGMCU5RiU4NyVBQSVGMCU5RiU4NyVCOCUyMCVFOCVBNSVCRiVFNyU4RiVBRCVFNyU4OSU5OQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAyNyMlRjAlOUYlODclQjMlRjAlOUYlODclQjElMjAlRTglOEQlQjclRTUlODUlQjANCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMzMjJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUFFJTIwJUU4JThBJUFDJUU1JTg1JUIwDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDM0IyVGMCU5RiU4NyVBNiVGMCU5RiU4NyVCOSUyMCVFNSVBNSVBNSVFNSU5QyVCMCVFNSU4OCVBOQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAzNSMlRjAlOUYlODclQjElRjAlOUYlODclQjklMjAlRTclQUIlOEIlRTklOTklQjYlRTUlQUUlOUINCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMzYjJUYwJTlGJTg3JUI4JUYwJTlGJTg3JUFBJTIwJUU3JTkxJTlFJUU1JTg1JUI4DQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDM3IyVGMCU5RiU4NyVBQyVGMCU5RiU4NyVCNyUyMCVFNSVCOCU4QyVFOCU4NSU4QQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAzOCMlRjAlOUYlODclQjElRjAlOUYlODclQkIlMjAlRTYlOEIlODklRTglODQlQjElRTclQkIlQjQlRTQlQkElOUENCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMzkjJUYwJTlGJTg3JUIzJUYwJTlGJTg3JUI0JTIwJUU2JThDJUFBJUU1JUE4JTgxDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDQwIyVGMCU5RiU4NyVBOSVGMCU5RiU4NyVCMCUyMCVFNCVCOCVCOSVFOSVCQSVBNg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA0MSMlRjAlOUYlODclQTclRjAlOUYlODclQUElMjAlRTYlQUYlOTQlRTUlODglQTklRTYlOTclQjYNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNjUjJUYwJTlGJTg3JUIxJUYwJTlGJTg3JUJBJTIwJUU1JThEJUEyJUU2JUEzJUFFJUU1JUEwJUExDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDQyIyVGMCU5RiU4NyVCMiVGMCU5RiU4NyVCMCUyMCVFOSVBOSVBQyVFNSU4NSVCNiVFOSVBMSVCRg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA0MyMlRjAlOUYlODclQTYlRjAlOUYlODclQjIlMjAlRTQlQkElOUElRTclQkUlOEUlRTUlQjAlQkMlRTQlQkElOUENCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNzAjJUYwJTlGJTg3JUE2JUYwJTlGJTg3JUIxJTIwJUU5JTk4JUJGJUU1JUIwJTk0JUU1JUI3JUI0JUU1JUIwJUJDJUU0JUJBJTlBDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDY3IyVGMCU5RiU4NyVBQyVGMCU5RiU4NyVBQSUyMCVFNiVBMCVCQyVFOSVCMiU4MSVFNSU5MCU4OSVFNCVCQSU5QQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA0NCMlRjAlOUYlODclQjUlRjAlOUYlODclQjklMjAlRTglOTElQTElRTglOTAlODQlRTclODklOTkNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMjIjJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUE2JTIwJUU0JUI5JThDJUU1JTg1JThCJUU1JTg1JUIwDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDEzIyVGMCU5RiU4NyVCMiVGMCU5RiU4NyVBOSUyMCVFNiU5MSVBOSVFNSVCMCU5NCVFNSVBNCU5QSVFNyU5MyVBNg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAzMCMlRjAlOUYlODclQUElRjAlOUYlODclQUElMjAlRTclODglQjElRTYlQjIlOTklRTUlQjAlQkMlRTQlQkElOUENCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMzEjJUYwJTlGJTg3JUFEJUYwJTlGJTg3JUI3JTIwJUU1JTg1JThCJUU3JUJEJTk3JUU1JTlDJUIwJUU0JUJBJTlBDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDY4IyVGMCU5RiU4NyVCNyVGMCU5RiU4NyVCNCUyMCVFNyVCRCU5NyVFOSVBOSVBQyVFNSVCMCVCQyVFNCVCQSU5QQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA2OSMlRjAlOUYlODclQjglRjAlOUYlODclQUUlMjAlRTYlOTYlQUYlRTYlQjQlOUIlRTYlOTYlODclRTUlQjAlQkMlRTQlQkElOUENCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMjUjJUYwJTlGJTg3JUI3JUYwJTlGJTg3JUJBJTIwJUU0JUJGJTg0JUU3JUJEJTk3JUU2JTk2JUFGDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDQ3IyVGMCU5RiU4NyVBNyVGMCU5RiU4NyVBQyUyMCVFNCVCRiU5RCVFNSU4QSVBMCVFNSU4OCVBOSVFNCVCQSU5QQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAwMyMlRjAlOUYlODclQjklRjAlOUYlODclQjclMjAlRTUlOUMlOUYlRTglODAlQjMlRTUlODUlQjYNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNTkjJUYwJTlGJTg3JUI3JUYwJTlGJTg3JUI4JTIwJUU1JUExJTlFJUU1JUIwJTk0JUU3JUJCJUI0JUU0JUJBJTlBDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDIxIyVGMCU5RiU4NyVBQSVGMCU5RiU4NyVBQyUyMCVFNSU5RiU4MyVFNSU4RiU4QQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzAyOSMlRjAlOUYlODclQjMlRjAlOUYlODclQUMlMjAlRTUlQjAlQkMlRTYlOTclQTUlRTUlODglQTklRTQlQkElOUENCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNTgjJUYwJTlGJTg3JUIyJUYwJTlGJTg3JUE2JTIwJUU2JTkxJUE5JUU2JUI0JTlCJUU1JTkzJUE1DQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDQ5IyVGMCU5RiU4NyVCRiVGMCU5RiU4NyVBNiUyMCVFNSU4RCU5NyVFOSU5RCU5RQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA1MiMlRjAlOUYlODclQjglRjAlOUYlODclQTYlMjAlRTYlQjIlOTklRTclODklQjklRTklOTglQkYlRTYlOEIlODklRTQlQkMlQUYNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNTcjJUYwJTlGJTg3JUFFJUYwJTlGJTg3JUI2JTIwJUU0JUJDJThBJUU2JThCJTg5JUU1JTg1JThCDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDUzIyVGMCU5RiU4NyVBRSVGMCU5RiU4NyVCMSUyMCVFNCVCQiVBNSVFOCU4OSVCMiVFNSU4OCU5Nw0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA1NiMlRjAlOUYlODclQTglRjAlOUYlODclQkUlMjAlRTUlQTElOUUlRTYlQjUlQTYlRTglQjclQUYlRTYlOTYlQUYNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNTQjJUYwJTlGJTg3JUI0JUYwJTlGJTg3JUIyJTIwJUU5JTk4JUJGJUU2JTlCJUJDDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDQ4IyVGMCU5RiU4NyVBNiVGMCU5RiU4NyVBQSUyMCVFOSU5OCVCRiVFNiU4QiU4OSVFNCVCQyVBRiVFOCU4MSU5NCVFNSU5MCU4OCVFOSU4NSU4QiVFOSU5NSVCRiVFNSU5QiVCRA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA1MSMlRjAlOUYlODclQjYlRjAlOUYlODclQTYlMjAlRTUlOEQlQTElRTUlQTElOTQlRTUlQjAlOTQNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMTcjJUYwJTlGJTg3JUI1JUYwJTlGJTg3JUIwJTIwJUU1JUI3JUI0JUU1JTlGJUJBJUU2JTk2JUFGJUU1JTlEJUE2DQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDE1IyVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCRiUyMCVFNCVCOSU4QyVFNSU4NSVCOSVFNSU4OCVBQiVFNSU4NSU4QiVFNiU5NiVBRiVFNSU5RCVBNg0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA0NSMlRjAlOUYlODclQjAlRjAlOUYlODclQkYlMjAlRTUlOTMlODglRTglOTAlQTglRTUlODUlOEIlRTYlOTYlQUYlRTUlOUQlQTYNCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMDYjJUYwJTlGJTg3JUE2JUYwJTlGJTg3JUI3JTIwJUU5JTk4JUJGJUU2JUEwJUI5JUU1JUJCJUI3DQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDUwIyVGMCU5RiU4NyVCNSVGMCU5RiU4NyVBQSUyMCVFNyVBNyU5OCVFOSVCMiU4MQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA2MCMlRjAlOUYlODclQTglRjAlOUYlODclQjQlMjAlRTUlOTMlQTUlRTQlQkMlQTYlRTYlQUYlOTQlRTQlQkElOUENCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNjEjJUYwJTlGJTg3JUFDJUYwJTlGJTg3JUI5JTIwJUU1JThEJUIxJUU1JTlDJUIwJUU5JUE5JUFDJUU2JThCJTg5DQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDYyIyVGMCU5RiU4NyVBQSVGMCU5RiU4NyVBOCUyMCVFNSU4RSU4NCVFNyU5MyU5QyVFNSVBNCU5QSVFNSVCMCU5NA0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA2MyMlRjAlOUYlODclQTglRjAlOUYlODclQjclMjAlRTUlOTMlQTUlRTYlOTYlQUYlRTglQkUlQkUlRTklQkIlOEUlRTUlOEElQTANCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwMTEjJUYwJTlGJTg3JUIyJUYwJTlGJTg3JUJEJTIwJUU1JUEyJUE4JUU4JUE1JUJGJUU1JTkzJUE1DQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDAyIyVGMCU5RiU4NyVBOCVGMCU5RiU4NyVCMSUyMCVFNiU5OSVCQSVFNSU4OCVBOQ0Kc3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WXpNeVpETTNaalF0WTJFeU15MDBaRGxoTFdKa01tVXRZMk5rT0RsaFlqaGtNakpoQGxnYW5lbmM5ZW5oeS55YW5nbGlxLmNvbTozNzA2NiMlRjAlOUYlODclQTclRjAlOUYlODclQjQlMjAlRTclOEUlQkIlRTUlODglQTklRTclQkIlQjQlRTQlQkElOUENCnNzOi8vWVdWekxURXlPQzFuWTIwNll6TXlaRE0zWmpRdFkyRXlNeTAwWkRsaExXSmtNbVV0WTJOa09EbGhZamhrTWpKaEBsZ2FuZW5jOWVuaHkueWFuZ2xpcS5jb206MzcwNDYjJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUJFJTIwJUU0JUI5JThDJUU2JThCJTg5JUU1JTlDJUFEDQpzczovL1lXVnpMVEV5T0MxblkyMDZZek15WkRNM1pqUXRZMkV5TXkwMFpEbGhMV0prTW1VdFkyTmtPRGxoWWpoa01qSmhAbGdhbmVuYzllbmh5LnlhbmdsaXEuY29tOjM3MDA5IyVGMCU5RiU4NyVBNyVGMCU5RiU4NyVCNyUyMCVFNSVCNyVCNCVFOCVBNSVCRg0K&insert=false&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&udp=true&new_name=true"
+    interval: 86400
+    path: ./tannel.yaml
+    exclude-filter: "北京时间|剩余流量|过期时间|网站地址"
+    proxy: DIRECT
+    health-check:
+      enable: true
+      url: https://www.google.com/generate_204
+      interval: 300    
+
+      
+# 全局配置
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7894
+allow-lan: true    # 允许局域网
+bind-address: "*"    # 绑定地址，仅允许其他设备通过这个地址访问
+mode: Rule
+log-level: info
+ipv6: false
+unified-delay: true    # 统一延迟
+tcp-concurrent: true    # tcp并发
+find-process-mode: off    # 控制是否让 Clash 去匹配进程
+global-client-fingerprint: chrome    # 伪装指纹
+# 移动设备省电
+keep-alive-idle: 600
+keep-alive-interval: 15
+disable-keep-alive: false
+profile:
+  store-selected: true    # 储存 API 对策略组的选择，以供下次启动时使用
+  store-fake-ip: true    # 储存 fakeip 映射表，域名再次发生连接时，使用原有映射地址
+
+# 控制面板  
+external-controller: 0.0.0.0:9090    # API控制面板
+secret: ""
+
+
+# 自建节点添加到这里
+proxies: 
+
+# 策略组
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - 🇭🇰 香港自动
+      - 🇺🇲 美国自动
+      - 🌍 其他节点
+      - DIRECT
+      - ♻️ 自动选择      
+
+  - name: 🇭🇰 香港自动
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    use:
+      - tannel
+    filter: (?i)香港
+
+  - name: 🇺🇲 美国自动
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    use:
+      - tannel
+    filter: (?i)美国
+
+  - name: 🌍 其他节点
+    type: select
+    use:
+      - tannel
+    exclude-filter: "香港|美国"
+
+  - name: ♻️ 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    use:
+      - tannel
+
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - DIRECT
+
+  - name: 🏡 JNAS
+    type: select
+    proxies:
+      - DIRECT    
+      - 🚀 节点选择
+
+  - name: 🤖 AI
+    type: select
+    proxies:
+      - 🇭🇰 香港自动
+      - 🇺🇲 美国自动
+      - 🌍 其他节点
+      - DIRECT
+
+  - name: 🍎 Apple
+    type: select
+    proxies:
+      - 🇭🇰 香港自动
+      - 🇺🇲 美国自动
+      - 🌍 其他节点
+      - DIRECT
+
+  - name: 🪟 Microsoft
+    type: select
+    proxies:
+      - 🇭🇰 香港自动
+      - 🇺🇲 美国自动
+      - 🌍 其他节点
+      - DIRECT
+
+  - name: 🛑 广告拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+rules:
+  - SRC-IP-CIDR,192.168.110.211/32,🏡 JNAS
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
+  - DOMAIN-SUFFIX,services.googleapis.cn,🚀 节点选择
+  - RULE-SET,GoogleCNProxyIP,🚀 节点选择
+  - RULE-SET,LocalAreaNetwork,DIRECT
+  - RULE-SET,custom_ad,🛑 广告拦截
+  - RULE-SET,custom_direct,DIRECT
+  - RULE-SET,custom_HK,🇭🇰 香港自动
+  - RULE-SET,custom_US,🇺🇲 美国自动
+  - RULE-SET,whatsApp,🚀 节点选择
+  - RULE-SET,ai_domain,🤖 AI
+  - RULE-SET,google_domain,🚀 节点选择
+  - RULE-SET,youtube_domain,🚀 节点选择
+  - RULE-SET,github_domain,🚀 节点选择  
+  - RULE-SET,tiktok_domain,🇺🇲 美国自动
+  - RULE-SET,telegram_domain,🚀 节点选择
+  - RULE-SET,netflix_domain,🇺🇲 美国自动
+  - RULE-SET,paypal_domain,🚀 节点选择
+  - RULE-SET,gfw_domain,🚀 节点选择
+  - RULE-SET,geolocation-!cn_domain,🚀 节点选择
+  - RULE-SET,microsoft_domain,🪟 Microsoft
+  - RULE-SET,onedrive_domain,🪟 Microsoft
+  - RULE-SET,apple_domain,🍎 Apple
+  - RULE-SET,google_ip,🚀 节点选择,no-resolve
+  - RULE-SET,telegram_ip,🚀 节点选择,no-resolve
+  - RULE-SET,netflix_ip,🇺🇲 美国自动,no-resolve
+  - RULE-SET,cn_domain,DIRECT
+  - RULE-SET,speedtest_domain,DIRECT
+  - RULE-SET,cn_ip,DIRECT,no-resolve
+  - MATCH,🐟 漏网之鱼
+
+# 规则集
+rule-providers:
+
+# 域名集
+  GoogleCNProxyIP:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list"
+    path: ./GoogleCNProxyIP.list
+    interval: 86400
+    behavior: classical
+    format: text
+    proxy: DIRECT
+
+  LocalAreaNetwork:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/JakeFan352/XyloPhon3-_42/refs/heads/main/LocalAreaNetwork.list"
+    path: ./LocalAreaNetwork.list
+    interval: 86400
+    behavior: classical
+    format: text
+    proxy: DIRECT
+
+  apple_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-cn.yaml"
+    path: ./apple_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  ai_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-ai-!cn.yaml"
+    path: ./ai_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+
+  google_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.yaml"
+    path: ./google_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  youtube_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.yaml"
+    path: ./youtube_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml    
+    proxy: DIRECT
+    
+  github_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml"
+    path: ./github_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  tiktok_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml"
+    path: ./tiktok_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  telegram_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml"
+    path: ./telegram_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  netflix_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.yaml"
+    path: ./netflix_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  paypal_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.yaml"
+    path: ./paypal_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  gfw_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.yaml"
+    path: ./gfw_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  geolocation-!cn_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml"
+    path: ./geolocation-!cn_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+    
+  microsoft_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.yaml"
+    path: ./microsoft_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+
+  onedrive_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.yaml"
+    path: ./onedrive_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+
+  cn_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml"
+    path: ./cn_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+
+  speedtest_domain:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ookla-speedtest.yaml"
+    path: ./speedtest_domain.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
+
+# ip集
+  google_ip:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.yaml"
+    path: ./google_ip.yaml
+    interval: 86400
+    behavior: ipcidr
+    format: yaml
+    proxy: DIRECT
+
+  telegram_ip:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.yaml"
+    path: ./telegram_ip.yaml
+    interval: 86400
+    behavior: ipcidr
+    format: yaml
+    proxy: DIRECT
+
+  netflix_ip:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.yaml"
+    path: ./netflix_ip.yaml
+    interval: 86400
+    behavior: ipcidr
+    format: yaml
+    proxy: DIRECT 
+    
+  cn_ip:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.yaml"
+    path: ./cn_ip.yaml
+    interval: 86400
+    behavior: ipcidr
+    format: yaml
+    proxy: DIRECT
+
+# 自定义集classical,yaml
+
+  whatsApp:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/JakeFan352/XyloPhon3-_42/refs/heads/main/whatsApp.yaml"
+    path: ./whatsApp.yaml
+    interval: 86400
+    behavior: classical
+    format: yaml
+    proxy: DIRECT
+
+  custom_direct:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/JakeFan352/XyloPhon3-_42/refs/heads/main/custom_direct.yaml"
+    path: ./custom_direct.yaml
+    interval: 86400
+    behavior: classical
+    format: yaml
+    proxy: DIRECT
+
+  custom_HK:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/JakeFan352/XyloPhon3-_42/refs/heads/main/custom_HK.yaml"
+    path: ./custom_HK.yaml
+    interval: 86400
+    behavior: classical
+    format: yaml
+    proxy: DIRECT
+
+  custom_US:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/JakeFan352/XyloPhon3-_42/refs/heads/main/custom_US.yaml"
+    path: ./custom_US.yaml
+    interval: 86400
+    behavior: classical
+    format: yaml
+    proxy: DIRECT
+
+  custom_ad:
+    type: http
+    url: "https://github.xgithub.fun/https://raw.githubusercontent.com/JakeFan352/XyloPhon3-_42/refs/heads/main/custom_ad.yaml"
+    path: ./custom_ad.yaml
+    interval: 86400
+    behavior: domain
+    format: yaml
+    proxy: DIRECT
